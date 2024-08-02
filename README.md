@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- #### 🔭 I’m currently working as a  **Junior Flutter Developer 💻** | **Mobile Application Developer 📱| UI Designer **  .
+- #### 🔭 I’m currently working as a  **Junior Flutter Developer 💻** | **Mobile Application Developer** 📱| **UI Designer **  .
 
 - #### 🌱 I’m currently learning  Advanced Flutter | Adaptive and Responsive layout.
 
