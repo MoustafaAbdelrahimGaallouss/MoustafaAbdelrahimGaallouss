@@ -1,12 +1,12 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Moustafa+AbdEL-Rahim!+🦚💙;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Moustafa+AbdEL-Rahim!+🦚💙 ;" />
 </div>
 
 <br>
 
 ## 🙋‍♂️ About Me:
 
-- #### 🔭 I’m currently working as a  **Junior Flutter Developer 💻** | **Mobile Application Developer** 📱| **UI Designer **  .
+- #### 🔭 I’m currently working as a  **Junior Flutter Developer 💻** | **Mobile Application Developer** 📱| **UI Designer**  .
 
 - #### 🌱 I’m currently learning  Advanced Flutter | Adaptive and Responsive layout.
 
